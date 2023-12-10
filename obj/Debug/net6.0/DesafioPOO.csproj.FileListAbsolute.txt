@@ -1,0 +1,14 @@
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\chpon\OneDrive\Desktop-Verdadeiro\DIO\Bootcamp C#\trilha-net-poo-desafio-celular\obj\Debug\net6.0\ref\DesafioPOO.dll
